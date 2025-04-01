@@ -1,25 +1,17 @@
+# ☕ Coffee-Stylus 
 
-# Coffee-Stylus Project
+A blockchain-based coffee marketplace built with:
+- **Ethereum Version**: Solidity + Hardhat + React
+- **Solana Version**: Rust (Anchor) + React + Vite
 
-A blockchain-based coffee marketplace built with Solidity and React.
+![Coffee-Stylus Demo](https://via.placeholder.com/800x400?text=Coffee-Stylus+Demo)
 
-## Features
+## 🌟 Features
+- **Add coffee listings** (name, origin, price, roast level)
+- **Purchase coffee** using crypto (ETH or SOL)
+- **Owner-restricted** functions for managing listings
+- **Test coverage** for both smart contracts
 
-- Add different coffee varieties with details (name, origin, price, roast level)
-- Purchase coffee using Ethereum
-- Owner-restricted functions for adding new coffee varieties
+## 📁 Project Structure
 
-## Technologies
-
-- **Smart Contracts**: Solidity, Hardhat
-- **Frontend**: React, Ethers.js
-- **Blockchain**: Ethereum (Sepolia testnet)
-
-## Setup
-
-### Smart Contracts
-
-1. Install dependencies:
-   ```bash
-   cd contracts
-   npm install
+### Ethereum Version
